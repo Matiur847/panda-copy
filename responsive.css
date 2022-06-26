@@ -1,0 +1,10 @@
+@media only screen and (max-width: 992px) {
+    .categories {
+        display: none;
+    }
+}
+@media only screen and (max-width: 317px) {
+    .btn-buy2 {
+        margin-top: 5px;
+    }
+}

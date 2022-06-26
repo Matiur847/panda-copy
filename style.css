@@ -20,6 +20,9 @@
 .mar-1 {
     margin-top: 70px;
 }
+.mar-2 {
+    margin-top: 110px;
+}
 .cat1 {
     background-color: orange;
 }
@@ -27,8 +30,34 @@
     background-color: #DA70D6;
 }
 .cat3 {
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.788);
 }
 .cat1, .cat2, .cat3 h2 {
     color: white;
+}
+.cat1, .cat2, .cat3 {
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+#shadow {
+    border: none;
+    box-shadow: gray 5px 5px 10px;
+}
+.hei-250 {
+    height: 250px;
+    border-radius: 10px;
+}
+.btn-buy2 {
+    background-image: linear-gradient(to bottom, #FF5B9B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+}
+.slide {
+    border-radius: 10px;
 }
