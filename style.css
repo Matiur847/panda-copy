@@ -1,0 +1,34 @@
+
+.navbar-nav a {
+    font-weight: 900;
+    font-size: 18px;
+}
+.btn-buy {
+    background-image: linear-gradient(to bottom, #FF5B9B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel {
+    background-color: #FCEAE8;
+}
+.padding {
+    padding: 20px 40px;
+}
+.mar-1 {
+    margin-top: 70px;
+}
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: #DA70D6;
+}
+.cat3 {
+    background-color: blue;
+}
+.cat1, .cat2, .cat3 h2 {
+    color: white;
+}
